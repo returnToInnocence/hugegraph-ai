@@ -24,4 +24,4 @@ class TestNLTKHelper(unittest.TestCase):
         from hugegraph_llm.operators.common_op.nltk_helper import NLTKHelper
         nltk_helper = NLTKHelper()
         stopwords = nltk_helper.stopwords()
-        print(stopwords)
+        print(stopwords) 

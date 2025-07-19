@@ -24,4 +24,4 @@ class TestConfig(unittest.TestCase):
         import nltk
         from hugegraph_llm.config import resource_path
         nltk.data.path.append(resource_path)
-        nltk.data.find("corpora/stopwords")
+        nltk.data.find("corpora/stopwords") 

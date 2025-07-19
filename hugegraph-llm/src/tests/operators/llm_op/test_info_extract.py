@@ -140,4 +140,4 @@ class TestInfoExtract(unittest.TestCase):
                     ("Bob", "owns", "www.bob.com"),
                 ]
             },
-        )
+        ) 
